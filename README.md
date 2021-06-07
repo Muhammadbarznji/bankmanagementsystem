@@ -19,3 +19,8 @@ other information’s. Part 3 is used for searching. The customer can search
 for his account by using his CVV and credit card number. Part 4 consists of 
 email sending. The customer can send email to other customers or staffs. 
 The customer can only send email to 1 person at one time.
+
+# programming langaues:
+JAVA
+# Database
+SQLite
